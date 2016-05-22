@@ -1,0 +1,15 @@
+[submodule "library/Davai"]
+	path = library/Davai
+	url = git@github.com:TeaMeow/Davai.git
+[submodule "library/Aira"]
+	path = library/Aira
+	url = git@github.com:TeaMeow/Aira.git
+[submodule "library/Koru"]
+	path = library/Koru
+	url = git@github.com:TeaMeow/Koru.git
+[submodule "library/PHP-MySQLi-Database-Class"]
+	path = library/PHP-MySQLi-Database-Class
+	url = git@github.com:joshcam/PHP-MySQLi-Database-Class.git
+[submodule "library/Avane"]
+	path = library/Avane
+	url = git@github.com:TeaMeow/Avane.git
